@@ -1,0 +1,5 @@
+# Japan
+
+Japan emerged as the leader of the Asian growth miracle in 80s’ to become the first big Asian economy. Like many other developed economies in the world, it too boasts a high level of technological advancement in regards to the field of robotics and automation. It also excels in manufacturing sophisticated products like semiconductors, optical instruments, and precision machinery, which forms the basis of its trade-oriented economy. Part of the rise of Japan can be attributed to a strong work ethics where employees are expected to be committed and work long hours. Combined with a strong education system and high investment in infrastructure, there is an adequate supply of high-skilled labor and efficient economic activities.
+
+Nevertheless, Japan’s growth has been stumped since the 1990s housing bubble, a period commonly termed “The Lost Decade” of Japan. Since then, Japan’s growth and inflation have remained terminally low at 1% each, which are further challenged by an increasingly aging population, protectionist policies, and high public debts.
