@@ -1,0 +1,2115 @@
+
+[
+  {
+    "name": "Vanuatu",
+    "exports": {
+      "total": "$270M",
+      "rank": "177 of 226",
+      "per_capita": "$847",
+      "per_capita_rank": "196 of 220",
+      "top_products": [
+        {"product": "Non-fillet Frozen Fish", "value": "$114M"},
+        {"product": "Special Purpose Ships", "value": "$82.6M"},
+        {"product": "Passenger and Cargo Ships", "value": "$22.6M"},
+        {"product": "Perfume Plants", "value": "$13.1M"},
+        {"product": "Molluscs", "value": "$8.25M"}
+      ],
+      "top_destinations": [
+        {"country": "Thailand", "value": "$145M"},
+        {"country": "Japan", "value": "$48.2M"},
+        {"country": "South Korea", "value": "$15.8M"},
+        {"country": "Cyprus", "value": "$14.7M"},
+        {"country": "China", "value": "$11.2M"}
+      ]
+    },
+    "imports": {
+      "total": "$343M",
+      "rank": "196 of 226",
+      "per_capita": "$1.08K",
+      "per_capita_rank": "155 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$43.4M"},
+        {"product": "Fishing Ships", "value": "$12.5M"},
+        {"product": "Poultry Meat", "value": "$11.7M"},
+        {"product": "Delivery Trucks", "value": "$8.32M"},
+        {"product": "Sawn Wood", "value": "$7.76M"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$87.6M"},
+        {"country": "Australia", "value": "$53.9M"},
+        {"country": "New Zealand", "value": "$51.3M"},
+        {"country": "Fiji", "value": "$29.1M"},
+        {"country": "Singapore", "value": "$23.4M"}
+      ]
+    }
+  },
+  {
+    "name": "Micronesia",
+    "exports": {
+      "total": "$179M",
+      "rank": "187 of 226",
+      "per_capita": "$1.59K",
+      "per_capita_rank": "177 of 220",
+      "top_products": [
+        {"product": "Non-fillet Frozen Fish", "value": "$174M"},
+        {"product": "Fish Fillets", "value": "$1.3M"},
+        {"product": "Non-fillet Fresh Fish", "value": "$668k"},
+        {"product": "Planes, Helicopters, and/or Spacecraft", "value": "$390k"},
+        {"product": "Scrap Iron", "value": "$348k"}
+      ],
+      "top_destinations": [
+        {"country": "Thailand", "value": "$145M"},
+        {"country": "China", "value": "$16.1M"},
+        {"country": "Japan", "value": "$8.01M"},
+        {"country": "Philippines", "value": "$7.17M"},
+        {"country": "United States", "value": "$1.95M"}
+      ]
+    },
+    "imports": {
+      "total": "$126M",
+      "rank": "210 of 226",
+      "per_capita": "$1.11K",
+      "per_capita_rank": "154 of 220",
+      "top_products": [
+        {"product": "Poultry Meat", "value": "$6.45M"},
+        {"product": "Broadcasting Equipment", "value": "$3.98M"},
+        {"product": "Other Prepared Meat", "value": "$3.95M"},
+        {"product": "Cars", "value": "$3.94M"},
+        {"product": "Processed Fish", "value": "$3.58M"}
+      ],
+      "top_origins": [
+        {"country": "United States", "value": "$42.2M"},
+        {"country": "China", "value": "$20.1M"},
+        {"country": "Japan", "value": "$14.3M"},
+        {"country": "Chinese Taipei", "value": "$8.63M"},
+        {"country": "South Korea", "value": "$8.14M"}
+      ]
+    }
+  },
+  {
+    "name": "Cape Verde",
+    "exports": {
+      "total": "$123M",
+      "rank": "193 of 226",
+      "per_capita": "$209",
+      "per_capita_rank": "126 of 220",
+      "top_products": [
+        {"product": "Processed Fish", "value": "$52.6M"},
+        {"product": "Planes, Helicopters, and/or Spacecraft", "value": "$16M"},
+        {"product": "Documents of title (bonds etc) and unused stamps", "value": "$9.83M"},
+        {"product": "Non-fillet Frozen Fish", "value": "$7.53M"},
+        {"product": "Molluscs", "value": "$5.52M"}
+      ],
+      "top_destinations": [
+        {"country": "Spain", "value": "$77.6M"},
+        {"country": "Angola", "value": "$9.85M"},
+        {"country": "Portugal", "value": "$9.8M"},
+        {"country": "Italy", "value": "$7.72M"},
+        {"country": "United States", "value": "$5.36M"}
+      ]
+    },
+    "imports": {
+      "total": "$869M",
+      "rank": "182 of 226",
+      "per_capita": "$1.48K",
+      "per_capita_rank": "133 of 220",
+      "top_products": [
+        {"product": "Delivery Trucks", "value": "$117M"},
+        {"product": "Refined Petroleum", "value": "$93.5M"},
+        {"product": "Cars", "value": "$20.4M"},
+        {"product": "Raw Iron Bars", "value": "$19.7M"},
+        {"product": "Cement", "value": "$16.7M"}
+      ],
+      "top_origins": [
+        {"country": "Portugal", "value": "$355M"},
+        {"country": "South Africa", "value": "$114M"},
+        {"country": "China", "value": "$84.4M"},
+        {"country": "Spain", "value": "$80.7M"},
+        {"country": "Netherlands", "value": "$67.3M"}
+      ]
+    }
+  },
+  {
+    "name": "Lesotho",
+    "exports": {
+      "total": "$1.07B",
+      "rank": "160 of 226",
+      "per_capita": "$468",
+      "per_capita_rank": "104 of 220",
+      "top_products": [
+        {"product": "Diamonds", "value": "$373M"},
+        {"product": "Knit Women's Suits", "value": "$128M"},
+        {"product": "Non-Knit Men's Suits", "value": "$112M"},
+        {"product": "Wool", "value": "$57.6M"},
+        {"product": "Low-voltage Protection Equipment", "value": "$44.7M"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$344M"},
+        {"country": "South Africa", "value": "$325M"},
+        {"country": "Belgium", "value": "$252M"},
+        {"country": "United Arab Emirates", "value": "$52.4M"},
+        {"country": "Switzerland", "value": "$30.9M"}
+      ]
+    },
+    "imports": {
+      "total": "$1.59B",
+      "rank": "171 of 226",
+      "per_capita": "$698",
+      "per_capita_rank": "168 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$166M"},
+        {"product": "Light Rubberized Knitted Fabric", "value": "$79.9M"},
+        {"product": "Poultry Meat", "value": "$38.9M"},
+        {"product": "Cereal Meal and Pellets", "value": "$35.6M"},
+        {"product": "Electricity", "value": "$34.8M"}
+      ],
+      "top_origins": [
+        {"country": "South Africa", "value": "$1.39B"},
+        {"country": "China", "value": "$84.4M"},
+        {"country": "Chinese Taipei", "value": "$47.5M"},
+        {"country": "India", "value": "$16M"},
+        {"country": "Hong Kong", "value": "$7.92M"}
+      ]
+    }
+  },
+  {
+    "name": "Cambodia",
+    "exports": {
+      "total": "$27.3B",
+      "rank": "69 of 226",
+      "per_capita": "$1.64K",
+      "per_capita_rank": "83 of 220",
+      "top_products": [
+        {"product": "Knit Sweaters", "value": "$2.47B"},
+        {"product": "Trunks and Cases", "value": "$2.04B"},
+        {"product": "Knit Women's Suits", "value": "$1.84B"},
+        {"product": "Non-Knit Women's Suits", "value": "$1.52B"},
+        {"product": "Leather Footwear", "value": "$933M"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$9.59B"},
+        {"country": "China", "value": "$1.94B"},
+        {"country": "Germany", "value": "$1.89B"},
+        {"country": "Vietnam", "value": "$1.88B"},
+        {"country": "Japan", "value": "$1.74B"}
+      ]
+    },
+    "imports": {
+      "total": "$41.6B",
+      "rank": "61 of 226",
+      "per_capita": "$2.51K",
+      "per_capita_rank": "113 of 220",
+      "top_products": [
+        {"product": "Gold", "value": "$10.9B"},
+        {"product": "Refined Petroleum", "value": "$2.71B"},
+        {"product": "Light Rubberized Knitted Fabric", "value": "$2.66B"},
+        {"product": "Bi-Wheel Vehicle Parts", "value": "$611M"},
+        {"product": "Cars", "value": "$578M"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$11.3B"},
+        {"country": "Singapore", "value": "$11.2B"},
+        {"country": "Thailand", "value": "$6.69B"},
+        {"country": "Vietnam", "value": "$4.91B"},
+        {"country": "Hong Kong", "value": "$955M"}
+      ]
+    }
+  },
+  {
+    "name": "Laos",
+    "exports": {
+      "total": "$9.22B",
+      "rank": "101 of 226",
+      "per_capita": "$1.24K",
+      "per_capita_rank": "87 of 220",
+      "top_products": [
+        {"product": "Electricity", "value": "$1.96B"},
+        {"product": "Gold", "value": "$1.79B"},
+        {"product": "Other Uncoated Paper", "value": "$508M"},
+        {"product": "Copper Ore", "value": "$339M"},
+        {"product": "Rubber", "value": "$300M"}
+      ],
+      "top_destinations": [
+        {"country": "Thailand", "value": "$2.99B"},
+        {"country": "China", "value": "$2.48B"},
+        {"country": "Vietnam", "value": "$1.24B"},
+        {"country": "Australia", "value": "$693M"},
+        {"country": "Switzerland", "value": "$253M"}
+      ]
+    },
+    "imports": {
+      "total": "$7.67B",
+      "rank": "121 of 226",
+      "per_capita": "$1.03K",
+      "per_capita_rank": "157 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$734M"},
+        {"product": "Gold", "value": "$646M"},
+        {"product": "Cars", "value": "$252M"},
+        {"product": "Broadcasting Equipment", "value": "$168M"},
+        {"product": "Delivery Trucks", "value": "$111M"}
+      ],
+      "top_origins": [
+        {"country": "Thailand", "value": "$4B"},
+        {"country": "China", "value": "$1.67B"},
+        {"country": "Vietnam", "value": "$680M"},
+        {"country": "Switzerland", "value": "$267M"},
+        {"country": "Japan", "value": "$169M"}
+      ]
+    }
+  },
+  {
+    "name": "Laos",
+    "exports": {
+      "total": "$9.22B",
+      "rank": "101 of 226",
+      "per_capita": "$1.24K",
+      "per_capita_rank": "87 of 220",
+      "top_products": [
+        {"product": "Electricity", "value": "$1.96B"},
+        {"product": "Gold", "value": "$1.79B"},
+        {"product": "Other Uncoated Paper", "value": "$508M"},
+        {"product": "Copper Ore", "value": "$339M"},
+        {"product": "Rubber", "value": "$300M"}
+      ],
+      "top_destinations": [
+        {"country": "Thailand", "value": "$2.99B"},
+        {"country": "China", "value": "$2.48B"},
+        {"country": "Vietnam", "value": "$1.24B"},
+        {"country": "Australia", "value": "$693M"},
+        {"country": "Switzerland", "value": "$253M"}
+      ]
+    },
+    "imports": {
+      "total": "$7.67B",
+      "rank": "121 of 226",
+      "per_capita": "$1.03K",
+      "per_capita_rank": "157 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$734M"},
+        {"product": "Gold", "value": "$646M"},
+        {"product": "Cars", "value": "$252M"},
+        {"product": "Broadcasting Equipment", "value": "$168M"},
+        {"product": "Delivery Trucks", "value": "$111M"}
+      ],
+      "top_origins": [
+        {"country": "Thailand", "value": "$4B"},
+        {"country": "China", "value": "$1.67B"},
+        {"country": "Vietnam", "value": "$680M"},
+        {"country": "Switzerland", "value": "$267M"},
+        {"country": "Japan", "value": "$169M"}
+      ]
+    }
+  },
+  {
+    "name": "Honduras",
+    "exports": {
+      "total": "$9.22B",
+      "rank": "100 of 226",
+      "per_capita": "$897",
+      "per_capita_rank": "195 of 220",
+      "top_products": [
+        {"product": "Coffee", "value": "$1.35B"},
+        {"product": "Knit Sweaters", "value": "$1.23B"},
+        {"product": "Insulated Wire", "value": "$833M"},
+        {"product": "Knit T-shirts", "value": "$801M"},
+        {"product": "Palm Oil", "value": "$344M"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$4.61B"},
+        {"country": "El Salvador", "value": "$670M"},
+        {"country": "Guatemala", "value": "$575M"},
+        {"country": "Nicaragua", "value": "$411M"},
+        {"country": "Germany", "value": "$371M"}
+      ]
+    },
+    "imports": {
+      "total": "$15.1B",
+      "rank": "91 of 226",
+      "per_capita": "$1.47K",
+      "per_capita_rank": "135 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$1.44B"},
+        {"product": "Non-Retail Pure Cotton Yarn", "value": "$719M"},
+        {"product": "Non-Retail Synthetic Staple Fibers Yarn", "value": "$433M"},
+        {"product": "Coated Flat-Rolled Iron", "value": "$339M"},
+        {"product": "Packaged Medicaments", "value": "$337M"}
+      ],
+      "top_origins": [
+        {"country": "United States", "value": "$5.81B"},
+        {"country": "China", "value": "$1.99B"},
+        {"country": "Guatemala", "value": "$1.37B"},
+        {"country": "El Salvador", "value": "$1.09B"},
+        {"country": "Mexico", "value": "$809M"}
+      ]
+    }
+  },
+  {
+    "name": "Zimbabwe",
+    "exports": {
+      "total": "$7.5B",
+      "rank": "107 of 226",
+      "per_capita": "$469",
+      "per_capita_rank": "103 of 220",
+      "top_products": [
+        {"product": "Gold", "value": "$3.51B"},
+        {"product": "Nickel Mattes", "value": "$1.25B"},
+        {"product": "Raw Tobacco", "value": "$863M"},
+        {"product": "Ferroalloys", "value": "$380M"},
+        {"product": "Diamonds", "value": "$235M"}
+      ],
+      "top_destinations": [
+        {"country": "United Arab Emirates", "value": "$3.69B"},
+        {"country": "South Africa", "value": "$1.88B"},
+        {"country": "China", "value": "$537M"},
+        {"country": "Mozambique", "value": "$498M"},
+        {"country": "Belgium", "value": "$174M"}
+      ]
+    },
+    "imports": {
+      "total": "$7.4B",
+      "rank": "124 of 226",
+      "per_capita": "$462",
+      "per_capita_rank": "181 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$1.08B"},
+        {"product": "Vaccines, blood, antisera, toxins and cultures", "value": "$261M"},
+        {"product": "Delivery Trucks", "value": "$206M"},
+        {"product": "Nitrogenous Fertilizers", "value": "$187M"},
+        {"product": "Soybean Oil", "value": "$184M"}
+      ],
+      "top_origins": [
+        {"country": "South Africa", "value": "$3B"},
+        {"country": "China", "value": "$992M"},
+        {"country": "Singapore", "value": "$963M"},
+        {"country": "United Arab Emirates", "value": "$294M"},
+        {"country": "Mozambique", "value": "$266M"}
+      ]
+    }
+  },
+  {
+    "name": "Tajikistan",
+    "exports": {
+      "total": "$2.1B",
+      "rank": "145 of 226",
+      "per_capita": "$216",
+      "per_capita_rank": "125 of 220",
+      "top_products": [
+        {"product": "Gold", "value": "$781M"},
+        {"product": "Raw Aluminium", "value": "$231M"},
+        {"product": "Raw Cotton", "value": "$205M"},
+        {"product": "Antimony", "value": "$152M"},
+        {"product": "Zinc Ore", "value": "$141M"}
+      ],
+      "top_destinations": [
+        {"country": "Switzerland", "value": "$538M"},
+        {"country": "Kazakhstan", "value": "$360M"},
+        {"country": "Turkey", "value": "$240M"},
+        {"country": "China", "value": "$159M"},
+        {"country": "Uzbekistan", "value": "$130M"}
+      ]
+    },
+    "imports": {
+      "total": "$5.1B",
+      "rank": "138 of 226",
+      "per_capita": "$523",
+      "per_capita_rank": "177 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$387M"},
+        {"product": "Wheat", "value": "$225M"},
+        {"product": "Petroleum Gas", "value": "$214M"},
+        {"product": "Raw Iron Bars", "value": "$117M"},
+        {"product": "Cars", "value": "$99.5M"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$1.62B"},
+        {"country": "Russia", "value": "$1.16B"},
+        {"country": "Kazakhstan", "value": "$722M"},
+        {"country": "Uzbekistan", "value": "$343M"},
+        {"country": "Turkey", "value": "$274M"}
+      ]
+    }
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "exports": {
+      "total": "$16.7B",
+      "rank": "78 of 226",
+      "per_capita": "$174",
+      "per_capita_rank": "129 of 220",
+      "top_products": [
+        {"product": "Refined Copper", "value": "$8.95B"},
+        {"product": "Cobalt", "value": "$4.44B"},
+        {"product": "Raw Copper", "value": "$779M"},
+        {"product": "Copper Ore", "value": "$618M"},
+        {"product": "Crude Petroleum", "value": "$582M"}
+      ],
+      "top_destinations": [
+        {"country": "China", "value": "$11.3B"},
+        {"country": "United Arab Emirates", "value": "$1.13B"},
+        {"country": "South Korea", "value": "$822M"},
+        {"country": "Saudi Arabia", "value": "$583M"},
+        {"country": "Italy", "value": "$486M"}
+      ]
+    },
+    "imports": {
+      "total": "$9.36B",
+      "rank": "112 of 226",
+      "per_capita": "$97.7",
+      "per_capita_rank": "211 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$406M"},
+        {"product": "Delivery Trucks", "value": "$255M"},
+        {"product": "Packaged Medicaments", "value": "$254M"},
+        {"product": "Poultry Meat", "value": "$215M"},
+        {"product": "Stone Processing Machines", "value": "$170M"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$2.76B"},
+        {"country": "Zambia", "value": "$1.11B"},
+        {"country": "South Africa", "value": "$1.07B"},
+        {"country": "Rwanda", "value": "$587M"},
+        {"country": "India", "value": "$575M"}
+      ]
+    }
+  },
+  {
+    "name": "Nepal",
+    "exports": {
+      "total": "$1.74B",
+      "rank": "150 of 226",
+      "per_capita": "$57.9",
+      "per_capita_rank": "146 of 220",
+      "top_products": [
+        {"product": "Soybean Oil", "value": "$591M"},
+        {"product": "Palm Oil", "value": "$252M"},
+        {"product": "Non-Retail Synthetic Staple Fibers Yarn", "value": "$72.5M"},
+        {"product": "Knotted Carpets", "value": "$71.9M"},
+        {"product": "Nutmeg, mace and cardamons", "value": "$47.5M"}
+      ],
+      "top_destinations": [
+        {"country": "India", "value": "$1.34B"},
+        {"country": "United States", "value": "$144M"},
+        {"country": "Germany", "value": "$36.5M"},
+        {"country": "United Kingdom", "value": "$27.1M"},
+        {"country": "Turkey", "value": "$20.2M"}
+      ]
+    },
+    "imports": {
+      "total": "$15.3B",
+      "rank": "90 of 226",
+      "per_capita": "$508",
+      "per_capita_rank": "180 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$1.5B"},
+        {"product": "Semi-Finished Iron", "value": "$591M"},
+        {"product": "Soybean Oil", "value": "$517M"},
+        {"product": "Rice", "value": "$430M"},
+        {"product": "Gold", "value": "$417M"}
+      ],
+      "top_origins": [
+        {"country": "India", "value": "$9.4B"},
+        {"country": "China", "value": "$2.32B"},
+        {"country": "United Arab Emirates", "value": "$505M"},
+        {"country": "Argentina", "value": "$389M"},
+        {"country": "Indonesia", "value": "$302M"}
+      ]
+    }
+  },
+  {
+    "name": "Bangladesh",
+    "exports": {
+      "total": "$51.8B",
+      "rank": "56 of 226",
+      "per_capita": "$306",
+      "per_capita_rank": "117 of 220",
+      "top_products": [
+        {"product": "Knit T-shirts", "value": "$7.06B"},
+        {"product": "Non-Knit Men's Suits", "value": "$6.68B"},
+        {"product": "Knit Sweaters", "value": "$6.32B"},
+        {"product": "Non-Knit Women's Suits", "value": "$5.41B"},
+        {"product": "Knit Women's Suits", "value": "$3.54B"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$8.72B"},
+        {"country": "Germany", "value": "$8.36B"},
+        {"country": "Spain", "value": "$3.6B"},
+        {"country": "United Kingdom", "value": "$3.29B"},
+        {"country": "Poland", "value": "$2.94B"}
+      ]
+    },
+    "imports": {
+      "total": "$76.6B",
+      "rank": "48 of 226",
+      "per_capita": "$452",
+      "per_capita_rank": "182 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$5.48B"},
+        {"product": "Raw Cotton", "value": "$2.8B"},
+        {"product": "Non-Retail Pure Cotton Yarn", "value": "$2.26B"},
+        {"product": "Wheat", "value": "$1.92B"},
+        {"product": "Light Rubberized Knitted Fabric", "value": "$1.83B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$24.1B"},
+        {"country": "India", "value": "$14.1B"},
+        {"country": "Singapore", "value": "$3.53B"},
+        {"country": "Indonesia", "value": "$2.92B"},
+        {"country": "United States", "value": "$2.3B"}
+      ]
+    }
+  },
+  {
+    "name": "Nigeria",
+    "exports": {
+      "total": "$57.7B",
+      "rank": "52 of 226",
+      "per_capita": "$270",
+      "per_capita_rank": "122 of 220",
+      "top_products": [
+        {"product": "Crude Petroleum", "value": "$41.8B"},
+        {"product": "Petroleum Gas", "value": "$8.52B"},
+        {"product": "Special Purpose Ships", "value": "$1.25B"},
+        {"product": "Cocoa Beans", "value": "$779M"},
+        {"product": "Refined Petroleum", "value": "$667M"}
+      ],
+      "top_destinations": [
+        {"country": "India", "value": "$9.07B"},
+        {"country": "Spain", "value": "$6.7B"},
+        {"country": "United States", "value": "$3.69B"},
+        {"country": "France", "value": "$3.32B"},
+        {"country": "China", "value": "$3.05B"}
+      ]
+    },
+    "imports": {
+      "total": "$61.6B",
+      "rank": "50 of 226",
+      "per_capita": "$289",
+      "per_capita_rank": "197 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$11.3B"},
+        {"product": "Wheat", "value": "$3.32B"},
+        {"product": "Cars", "value": "$2.42B"},
+        {"product": "Packaged Medicaments", "value": "$972M"},
+        {"product": "Broadcasting Equipment", "value": "$934M"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$21.9B"},
+        {"country": "India", "value": "$4.75B"},
+        {"country": "Netherlands", "value": "$4.58B"},
+        {"country": "United States", "value": "$4.42B"},
+        {"country": "Belgium", "value": "$2.34B"}
+      ]
+    }
+  },
+  {
+    "name": "Jamaica",
+    "exports": {
+      "total": "$1.55B",
+      "rank": "153 of 226",
+      "per_capita": "$550",
+      "per_capita_rank": "203 of 220",
+      "top_products": [
+        {"product": "Aluminium Oxide", "value": "$460M"},
+        {"product": "Refined Petroleum", "value": "$384M"},
+        {"product": "Hard Liquor", "value": "$74.2M"},
+        {"product": "Aluminium Ore", "value": "$73.7M"},
+        {"product": "Other Processed Fruits and Nuts", "value": "$63.1M"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$712M"},
+        {"country": "Netherlands", "value": "$135M"},
+        {"country": "Canada", "value": "$93.2M"},
+        {"country": "United Kingdom", "value": "$63.3M"},
+        {"country": "Russia", "value": "$45.4M"}
+      ]
+    },
+    "imports": {
+      "total": "$5.9B",
+      "rank": "133 of 226",
+      "per_capita": "$2.09K",
+      "per_capita_rank": "121 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$530M"},
+        {"product": "Petroleum Gas", "value": "$410M"},
+        {"product": "Cars", "value": "$261M"},
+        {"product": "Crude Petroleum", "value": "$203M"},
+        {"product": "Raw Iron Bars", "value": "$140M"}
+      ],
+      "top_origins": [
+        {"country": "United States", "value": "$2.06B"},
+        {"country": "China", "value": "$749M"},
+        {"country": "Turkey", "value": "$306M"},
+        {"country": "Trinidad and Tobago", "value": "$202M"},
+        {"country": "Japan", "value": "$191M"}
+      ]
+    }
+  },
+  {
+    "name": "Kosovo",
+    "exports": {
+      "total": "N/A",
+      "rank": "N/A",
+      "per_capita": "N/A",
+      "per_capita_rank": "N/A",
+      "top_products": "N/A",
+      "top_destinations": "N/A"
+    },
+    "imports": {
+      "total": "N/A",
+      "rank": "N/A",
+      "per_capita": "N/A",
+      "per_capita_rank": "N/A",
+      "top_products": "N/A",
+      "top_origins": "N/A"
+    }
+  },
+  {
+    "name": "Namibia",
+    "exports": {
+      "total": "$4.72B",
+      "rank": "124 of 226",
+      "per_capita": "$1.87K",
+      "per_capita_rank": "80 of 220",
+      "top_products": [
+        {"product": "Diamonds", "value": "$922M"},
+        {"product": "Radioactive Chemicals", "value": "$599M"},
+        {"product": "Raw Copper", "value": "$535M"},
+        {"product": "Gold", "value": "$436M"},
+        {"product": "Fish Fillets", "value": "$327M"}
+      ],
+      "top_destinations": [
+        {"country": "South Africa", "value": "$988M"},
+        {"country": "China", "value": "$709M"},
+        {"country": "Belgium", "value": "$564M"},
+        {"country": "Botswana", "value": "$390M"},
+        {"country": "Germany", "value": "$307M"}
+      ]
+    },
+    "imports": {
+      "total": "$5.96B",
+      "rank": "132 of 226",
+      "per_capita": "$2.36K",
+      "per_capita_rank": "117 of 220",
+      "top_products": [
+        {"product": "Special Purpose Ships", "value": "$821M"},
+        {"product": "Copper Ore", "value": "$313M"},
+        {"product": "Electricity", "value": "$238M"},
+        {"product": "Delivery Trucks", "value": "$229M"},
+        {"product": "Refined Petroleum", "value": "$158M"}
+      ],
+      "top_origins": [
+        {"country": "South Africa", "value": "$3.43B"},
+        {"country": "Nigeria", "value": "$665M"},
+        {"country": "China", "value": "$401M"},
+        {"country": "Bulgaria", "value": "$163M"},
+        {"country": "Romania", "value": "$158M"}
+      ]
+    }
+  },
+  {
+    "name": "Uruguay",
+    "exports": {
+      "total": "$10.6B",
+      "rank": "94 of 226",
+      "per_capita": "$3.1K",
+      "per_capita_rank": "68 of 220",
+      "top_products": [
+        {"product": "Frozen Bovine Meat", "value": "$2.01B"},
+        {"product": "Sulfate Chemical Woodpulp", "value": "$1.5B"},
+        {"product": "Concentrated Milk", "value": "$558M"},
+        {"product": "Electricity", "value": "$525M"},
+        {"product": "Bovine Meat", "value": "$404M"}
+      ],
+      "top_destinations": [
+        {"country": "China", "value": "$3.06B"},
+        {"country": "Brazil", "value": "$1.76B"},
+        {"country": "United States", "value": "$605M"},
+        {"country": "Argentina", "value": "$554M"},
+        {"country": "Netherlands", "value": "$493M"}
+      ]
+    },
+    "imports": {
+      "total": "$11.8B",
+      "rank": "106 of 226",
+      "per_capita": "$3.44K",
+      "per_capita_rank": "101 of 220",
+      "top_products": [
+        {"product": "Crude Petroleum", "value": "$1.06B"},
+        {"product": "Cars", "value": "$369M"},
+        {"product": "Packaged Medicaments", "value": "$317M"},
+        {"product": "Broadcasting Equipment", "value": "$275M"},
+        {"product": "Refined Petroleum", "value": "$275M"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$2.34B"},
+        {"country": "Brazil", "value": "$2.1B"},
+        {"country": "Argentina", "value": "$1.18B"},
+        {"country": "United States", "value": "$1.12B"},
+        {"country": "Germany", "value": "$420M"}
+      ]
+    }
+  },
+  {
+    "name": "Bulgaria",
+    "exports": {
+      "total": "$43.3B",
+      "rank": "59 of 226",
+      "per_capita": "$6.29K",
+      "per_capita_rank": "52 of 220",
+      "top_products": [
+        {"product": "Refined Copper", "value": "$1.8B"},
+        {"product": "Wheat", "value": "$1.49B"},
+        {"product": "Electricity", "value": "$1.19B"},
+        {"product": "Refined Petroleum", "value": "$1.13B"},
+        {"product": "Packaged Medicaments", "value": "$1.06B"}
+      ],
+      "top_destinations": [
+        {"country": "Germany", "value": "$6.2B"},
+        {"country": "Romania", "value": "$4.36B"},
+        {"country": "Greece", "value": "$3.55B"},
+        {"country": "Italy", "value": "$3.42B"},
+        {"country": "Turkey", "value": "$2.57B"}
+      ]
+    },
+    "imports": {
+      "total": "$45.8B",
+      "rank": "59 of 226",
+      "per_capita": "$6.66K",
+      "per_capita_rank": "77 of 220",
+      "top_products": [
+        {"product": "Copper Ore", "value": "$1.96B"},
+        {"product": "Petroleum Gas", "value": "$1.62B"},
+        {"product": "Crude Petroleum", "value": "$1.55B"},
+        {"product": "Cars", "value": "$1.45B"},
+        {"product": "Packaged Medicaments", "value": "$1.43B"}
+      ],
+      "top_origins": [
+        {"country": "Germany", "value": "$5.27B"},
+        {"country": "Turkey", "value": "$3.89B"},
+        {"country": "Greece", "value": "$3.48B"},
+        {"country": "Romania", "value": "$3.45B"},
+        {"country": "Italy", "value": "$2.98B"}
+      ]
+    }
+  },
+  {
+    "name": "Mongolia",
+    "exports": {
+      "total": "$10.5B",
+      "rank": "95 of 226",
+      "per_capita": "$3.12K",
+      "per_capita_rank": "67 of 220",
+      "top_products": [
+        {"product": "Copper Ore", "value": "$2.9B"},
+        {"product": "Coal Briquettes", "value": "$2.74B"},
+        {"product": "Gold", "value": "$2.11B"},
+        {"product": "Iron Ore", "value": "$945M"},
+        {"product": "Animal Hair", "value": "$325M"}
+      ],
+      "top_destinations": [
+        {"country": "China", "value": "$7.64B"},
+        {"country": "Switzerland", "value": "$1.97B"},
+        {"country": "Singapore", "value": "$255M"},
+        {"country": "South Korea", "value": "$221M"},
+        {"country": "Russia", "value": "$114M"}
+      ]
+    },
+    "imports": {
+      "total": "$6.82B",
+      "rank": "129 of 226",
+      "per_capita": "$2.04K",
+      "per_capita_rank": "122 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$1.01B"},
+        {"product": "Cars", "value": "$420M"},
+        {"product": "Delivery Trucks", "value": "$303M"},
+        {"product": "Trailers and semi-trailers, not mechanically propelled vehicles", "value": "$204M"},
+        {"product": "Electricity", "value": "$161M"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$2.5B"},
+        {"country": "Russia", "value": "$1.81B"},
+        {"country": "Japan", "value": "$484M"},
+        {"country": "South Korea", "value": "$366M"},
+        {"country": "Germany", "value": "$199M"}
+      ]
+    }
+  },
+  {
+    "name": "Jordan",
+    "exports": {
+      "total": "$12B",
+      "rank": "89 of 226",
+      "per_capita": "N/A",
+      "per_capita_rank": "N/A",
+      "top_products": [
+        {"product": "Potassic Fertilizers", "value": "$1.2B"},
+        {"product": "Other Knit Garments", "value": "$860M"},
+        {"product": "Calcium Phosphates", "value": "$672M"},
+        {"product": "Phosphoric Acid", "value": "$635M"},
+        {"product": "Packaged Medicaments", "value": "$507M"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$3.13B"},
+        {"country": "India", "value": "$1.58B"},
+        {"country": "Saudi Arabia", "value": "$1.29B"},
+        {"country": "Iraq", "value": "$615M"},
+        {"country": "China", "value": "$486M"}
+      ]
+    },
+    "imports": {
+      "total": "$24.6B",
+      "rank": "75 of 226",
+      "per_capita": "N/A",
+      "per_capita_rank": "N/A",
+      "top_products": [
+        {"product": "Cars", "value": "$1.59B"},
+        {"product": "Refined Petroleum", "value": "$1.09B"},
+        {"product": "Gold", "value": "$1.08B"},
+        {"product": "Crude Petroleum", "value": "$956M"},
+        {"product": "Broadcasting Equipment", "value": "$727M"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$4.17B"},
+        {"country": "Saudi Arabia", "value": "$3.39B"},
+        {"country": "United Arab Emirates", "value": "$2.69B"},
+        {"country": "United States", "value": "$1.31B"},
+        {"country": "Turkey", "value": "$821M"}
+      ]
+    }
+  },
+  {
+    "name": "Argentina",
+    "exports": {
+      "total": "$68.7B",
+      "rank": "48 of 226",
+      "per_capita": "$1.5K",
+      "per_capita_rank": "181 of 220",
+      "top_products": [
+        {"product": "Corn", "value": "$8.88B"},
+        {"product": "Soybean Meal", "value": "$8.63B"},
+        {"product": "Soybean Oil", "value": "$6.17B"},
+        {"product": "Delivery Trucks", "value": "$3.89B"},
+        {"product": "Wheat", "value": "$2.71B"}
+      ],
+      "top_destinations": [
+        {"country": "Brazil", "value": "$11.2B"},
+        {"country": "China", "value": "$5.93B"},
+        {"country": "United States", "value": "$4.55B"},
+        {"country": "India", "value": "$4.19B"},
+        {"country": "Chile", "value": "$3.93B"}
+      ]
+    },
+    "imports": {
+      "total": "$60.5B",
+      "rank": "51 of 226",
+      "per_capita": "$1.32K",
+      "per_capita_rank": "142 of 220",
+      "top_products": [
+        {"product": "Motor vehicles; parts and accessories", "value": "$2.99B"},
+        {"product": "Refined Petroleum", "value": "$2.69B"},
+        {"product": "Petroleum Gas", "value": "$2.35B"},
+        {"product": "Soybeans", "value": "$2.26B"},
+        {"product": "Vaccines, blood, antisera, toxins and cultures", "value": "$1.76B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$12.6B"},
+        {"country": "Brazil", "value": "$12B"},
+        {"country": "United States", "value": "$6.41B"},
+        {"country": "Germany", "value": "$2.68B"},
+        {"country": "Paraguay", "value": "$2.65B"}
+      ]
+    }
+  },
+  {
+    "name": "Thailand",
+    "exports": {
+      "total": "$285B",
+      "rank": "25 of 226",
+      "per_capita": "$3.98K",
+      "per_capita_rank": "62 of 220",
+      "top_products": [
+        {"product": "Office Machine Parts", "value": "$20.3B"},
+        {"product": "Integrated Circuits", "value": "$11.2B"},
+        {"product": "Cars", "value": "$10.9B"},
+        {"product": "Delivery Trucks", "value": "$9.52B"},
+        {"product": "Motor vehicles; parts and accessories", "value": "$8.44B"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$45.3B"},
+        {"country": "China", "value": "$37.7B"},
+        {"country": "Japan", "value": "$25.1B"},
+        {"country": "Vietnam", "value": "$12.5B"},
+        {"country": "Australia", "value": "$12.1B"}
+      ]
+    },
+    "imports": {
+      "total": "$252B",
+      "rank": "23 of 226",
+      "per_capita": "$3.51K",
+      "per_capita_rank": "98 of 220",
+      "top_products": [
+        {"product": "Crude Petroleum", "value": "$20.1B"},
+        {"product": "Integrated Circuits", "value": "$11.3B"},
+        {"product": "Gold", "value": "$8.05B"},
+        {"product": "Petroleum Gas", "value": "$6.65B"},
+        {"product": "Motor vehicles; parts and accessories", "value": "$6.49B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$69.6B"},
+        {"country": "Japan", "value": "$31.2B"},
+        {"country": "Malaysia", "value": "$12.7B"},
+        {"country": "United States", "value": "$12.2B"},
+        {"country": "United Arab Emirates", "value": "$9.1B"}
+      ]
+    }
+  },
+  {
+    "name": "Vietnam",
+    "exports": {
+      "total": "$356B",
+      "rank": "18 of 226",
+      "per_capita": "$3.65K",
+      "per_capita_rank": "66 of 220",
+      "top_products": [
+        {"product": "Broadcasting Equipment", "value": "$51.1B"},
+        {"product": "Telephones", "value": "$25.3B"},
+        {"product": "Integrated Circuits", "value": "$18.2B"},
+        {"product": "Office Machine Parts", "value": "$11.7B"},
+        {"product": "Textile Footwear", "value": "$9.79B"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$99.3B"},
+        {"country": "China", "value": "$57.8B"},
+        {"country": "South Korea", "value": "$22.6B"},
+        {"country": "Japan", "value": "$21.3B"},
+        {"country": "Hong Kong", "value": "$12.5B"}
+      ]
+    },
+    "imports": {
+      "total": "$331B",
+      "rank": "19 of 226",
+      "per_capita": "$3.4K",
+      "per_capita_rank": "102 of 220",
+      "top_products": [
+        {"product": "Integrated Circuits", "value": "$39.8B"},
+        {"product": "Telephones", "value": "$20.7B"},
+        {"product": "Light Rubberized Knitted Fabric", "value": "$6.29B"},
+        {"product": "Broadcasting Accessories", "value": "$5.38B"},
+        {"product": "Refined Petroleum", "value": "$4.76B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$129B"},
+        {"country": "South Korea", "value": "$56.5B"},
+        {"country": "Japan", "value": "$18.2B"},
+        {"country": "Chinese Taipei", "value": "$14.8B"},
+        {"country": "Thailand", "value": "$12.5B"}
+      ]
+    }
+  },  
+  {
+    "name": "Brazil",
+    "exports": {
+      "total": "$288B",
+      "rank": "24 of 226",
+      "per_capita": "$1.35K",
+      "per_capita_rank": "183 of 220",
+      "top_products": [
+        {"product": "Iron Ore", "value": "$46.2B"},
+        {"product": "Soybeans", "value": "$39B"},
+        {"product": "Crude Petroleum", "value": "$30.7B"},
+        {"product": "Raw Sugar", "value": "$10B"},
+        {"product": "Poultry Meat", "value": "$7.66B"}
+      ],
+      "top_destinations": [
+        {"country": "China", "value": "$88.3B"},
+        {"country": "United States", "value": "$30.2B"},
+        {"country": "Argentina", "value": "$12B"},
+        {"country": "Netherlands", "value": "$9.29B"},
+        {"country": "Chile", "value": "$7.14B"}
+      ]
+    },
+    "imports": {
+      "total": "$225B",
+      "rank": "27 of 226",
+      "per_capita": "$1.05K",
+      "per_capita_rank": "156 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$13.1B"},
+        {"product": "Motor vehicles; parts and accessories (8701 to 8705)", "value": "$7.58B"},
+        {"product": "Vaccines, blood, antisera, toxins and cultures", "value": "$6.4B"},
+        {"product": "Mixed Mineral or Chemical Fertilizers", "value": "$6.37B"},
+        {"product": "Petroleum Gas", "value": "$5.72B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$53.8B"},
+        {"country": "United States", "value": "$39.3B"},
+        {"country": "Germany", "value": "$12.4B"},
+        {"country": "Argentina", "value": "$11.2B"},
+        {"country": "India", "value": "$6.77B"}
+      ]
+    }
+  },
+  {
+    "name": "Mexico",
+    "exports": {
+      "total": "$474B",
+      "rank": "12 of 226",
+      "per_capita": "$3.74K",
+      "per_capita_rank": "64 of 220",
+      "top_products": [
+        {"product": "Cars", "value": "$41.5B"},
+        {"product": "Motor vehicles; parts and accessories (8701 to 8705)", "value": "$30.7B"},
+        {"product": "Computers", "value": "$30.3B"},
+        {"product": "Delivery Trucks", "value": "$27.1B"},
+        {"product": "Crude Petroleum", "value": "$20.3B"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$361B"},
+        {"country": "Canada", "value": "$17.4B"},
+        {"country": "China", "value": "$9.82B"},
+        {"country": "Chinese Taipei", "value": "$8.05B"},
+        {"country": "Germany", "value": "$7.63B"}
+      ]
+    },
+    "imports": {
+      "total": "$459B",
+      "rank": "13 of 226",
+      "per_capita": "$3.62K",
+      "per_capita_rank": "97 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$27.3B"},
+        {"product": "Motor vehicles; parts and accessories (8701 to 8705)", "value": "$25.9B"},
+        {"product": "Office Machine Parts", "value": "$19.1B"},
+        {"product": "Integrated Circuits", "value": "$17.6B"},
+        {"product": "Petroleum Gas", "value": "$14.7B"}
+      ],
+      "top_origins": [
+        {"country": "United States", "value": "$247B"},
+        {"country": "China", "value": "$83.9B"},
+        {"country": "Germany", "value": "$15.5B"},
+        {"country": "South Korea", "value": "$12.3B"},
+        {"country": "Japan", "value": "$11.3B"}
+      ]
+    }
+  },
+  {
+    "name": "Philippines",
+    "exports": {
+      "total": "N/A",
+      "rank": "41 of 226",
+      "per_capita": "N/A",
+      "per_capita_rank": "N/A",
+      "top_destinations": [
+        {"country": "China", "value": "$15.1B"},
+        {"country": "United States", "value": "$13.3B"},
+        {"country": "Japan", "value": "$11.5B"},
+        {"country": "Hong Kong", "value": "$11.4B"},
+        {"country": "Singapore", "value": "$6.19B"}
+      ]
+    },
+    "imports": {
+      "total": "N/A",
+      "rank": "33 of 226",
+      "per_capita": "N/A",
+      "per_capita_rank": "N/A",
+      "top_origins": [
+        {"country": "China", "value": "$48.9B"},
+        {"country": "Japan", "value": "$10.4B"},
+        {"country": "South Korea", "value": "$9.23B"},
+        {"country": "Indonesia", "value": "$9.21B"},
+        {"country": "United States", "value": "$8.16B"}
+      ]
+    }
+  },
+  {
+    "name": "Indonesia",
+    "exports": {
+      "total": "$248B",
+      "rank": "27 of 226",
+      "per_capita": "$905",
+      "per_capita_rank": "95 of 220",
+      "top_products": [
+        {"product": "Coal Briquettes", "value": "$28.4B"},
+        {"product": "Palm Oil", "value": "$27.3B"},
+        {"product": "Petroleum Gas", "value": "$8.06B"},
+        {"product": "Ferroalloys", "value": "$7.16B"},
+        {"product": "Large Flat-Rolled Stainless Steel", "value": "$6.68B"}
+      ],
+      "top_destinations": [
+        {"country": "China", "value": "$54.5B"},
+        {"country": "United States", "value": "$26.2B"},
+        {"country": "Japan", "value": "$18.6B"},
+        {"country": "India", "value": "$14.5B"},
+        {"country": "Singapore", "value": "$13B"}
+      ]
+    },
+    "imports": {
+      "total": "$194B",
+      "rank": "30 of 226",
+      "per_capita": "$708",
+      "per_capita_rank": "165 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$14.5B"},
+        {"product": "Crude Petroleum", "value": "$6.03B"},
+        {"product": "Petroleum Gas", "value": "$4.27B"},
+        {"product": "Vaccines, blood, antisera, toxins and cultures", "value": "$3.42B"},
+        {"product": "Motor vehicles; parts and accessories (8701 to 8705)", "value": "$3.19B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$60.4B"},
+        {"country": "Singapore", "value": "$18.4B"},
+        {"country": "Japan", "value": "$13.2B"},
+        {"country": "United States", "value": "$9.69B"},
+        {"country": "Malaysia", "value": "$9.55B"}
+      ]
+    }
+  },
+  {
+    "name": "China",
+    "exports": {
+      "total": "$3.34T",
+      "rank": "1 of 226",
+      "per_capita": "$2.36K",
+      "per_capita_rank": "77 of 220",
+      "top_products": [
+        {"product": "Broadcasting Equipment", "value": "$231B"},
+        {"product": "Computers", "value": "$192B"},
+        {"product": "Integrated Circuits", "value": "$158B"},
+        {"product": "Office Machine Parts", "value": "$101B"},
+        {"product": "Telephones", "value": "$53.9B"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$530B"},
+        {"country": "Hong Kong", "value": "$323B"},
+        {"country": "Japan", "value": "$168B"},
+        {"country": "South Korea", "value": "$140B"},
+        {"country": "Germany", "value": "$134B"}
+      ]
+    },
+    "imports": {
+      "total": "$1.97T",
+      "rank": "2 of 226",
+      "per_capita": "$1.39K",
+      "per_capita_rank": "140 of 220",
+      "top_products": [
+        {"product": "Crude Petroleum", "value": "$208B"},
+        {"product": "Integrated Circuits", "value": "$171B"},
+        {"product": "Iron Ore", "value": "$146B"},
+        {"product": "Petroleum Gas", "value": "$56.6B"},
+        {"product": "Copper Ore", "value": "$52.4B"}
+      ],
+      "top_origins": [
+        {"country": "South Korea", "value": "$158B"},
+        {"country": "Japan", "value": "$153B"},
+        {"country": "United States", "value": "$151B"},
+        {"country": "Australia", "value": "$138B"},
+        {"country": "Chinese Taipei", "value": "$126B"}
+      ]
+    }
+  },
+  {
+    "name": "Colombia",
+    "exports": {
+      "total": "$42.5B",
+      "rank": "60 of 226",
+      "per_capita": "$826",
+      "per_capita_rank": "198 of 220",
+      "top_products": [
+        {"product": "Crude Petroleum", "value": "$11.3B"},
+        {"product": "Coal Briquettes", "value": "$5.11B"},
+        {"product": "Coffee", "value": "$3.22B"},
+        {"product": "Gold", "value": "$2.61B"},
+        {"product": "Refined Petroleum", "value": "$2.14B"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$11.7B"},
+        {"country": "China", "value": "$3.69B"},
+        {"country": "Panama", "value": "$2.4B"},
+        {"country": "India", "value": "$2.27B"},
+        {"country": "Brazil", "value": "$2.07B"}
+      ]
+    },
+    "imports": {
+      "total": "$59.6B",
+      "rank": "52 of 226",
+      "per_capita": "$1.16K",
+      "per_capita_rank": "148 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$3.18B"},
+        {"product": "Broadcasting Equipment", "value": "$2.44B"},
+        {"product": "Cars", "value": "$2.26B"},
+        {"product": "Vaccines, blood, antisera, toxins and cultures", "value": "$1.74B"},
+        {"product": "Packaged Medicaments", "value": "$1.65B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$15.1B"},
+        {"country": "United States", "value": "$14.6B"},
+        {"country": "Brazil", "value": "$3.44B"},
+        {"country": "Mexico", "value": "$3.34B"},
+        {"country": "Germany", "value": "$2.01B"}
+      ]
+    }
+  },
+  {
+    "name": "Egypt",
+    "exports": {
+      "total": "$44.5B",
+      "rank": "58 of 226",
+      "per_capita": "$407",
+      "per_capita_rank": "112 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$4.77B"},
+        {"product": "Crude Petroleum", "value": "$3.69B"},
+        {"product": "Petroleum Gas", "value": "$3.5B"},
+        {"product": "Nitrogenous Fertilizers", "value": "$1.7B"},
+        {"product": "Gold", "value": "$1.16B"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$3.7B"},
+        {"country": "Turkey", "value": "$3.09B"},
+        {"country": "Greece", "value": "$2.97B"},
+        {"country": "Italy", "value": "$2.58B"},
+        {"country": "India", "value": "$2.51B"}
+      ]
+    },
+    "imports": {
+      "total": "$98B",
+      "rank": "41 of 226",
+      "per_capita": "$897",
+      "per_capita_rank": "161 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$5.63B"},
+        {"product": "Wheat", "value": "$4.53B"},
+        {"product": "Cars", "value": "$3.98B"},
+        {"product": "Crude Petroleum", "value": "$3.13B"},
+        {"product": "Corn", "value": "$2.18B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$18.1B"},
+        {"country": "Saudi Arabia", "value": "$8.83B"},
+        {"country": "United States", "value": "$5.57B"},
+        {"country": "Russia", "value": "$5.01B"},
+        {"country": "Turkey", "value": "$4.65B"}
+      ]
+    }
+  },
+  {
+    "name": "Brunei",
+    "exports": {
+      "total": "$11.3B",
+      "rank": "91 of 226",
+      "per_capita": "$25.4K",
+      "per_capita_rank": "12 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$3.57B"},
+        {"product": "Petroleum Gas", "value": "$3.1B"},
+        {"product": "Crude Petroleum", "value": "$2.1B"},
+        {"product": "Cyclic Hydrocarbons", "value": "$1.76B"},
+        {"product": "Acyclic Alcohols", "value": "$205M"}
+      ],
+      "top_destinations": [
+        {"country": "Singapore", "value": "$2.36B"},
+        {"country": "China", "value": "$2.27B"},
+        {"country": "Japan", "value": "$2.15B"},
+        {"country": "Australia", "value": "$1.55B"},
+        {"country": "Malaysia", "value": "$611M"}
+      ]
+    },
+    "imports": {
+      "total": "$7.93B",
+      "rank": "119 of 226",
+      "per_capita": "$17.8K",
+      "per_capita_rank": "50 of 220",
+      "top_products": [
+        {"product": "Crude Petroleum", "value": "$4.51B"},
+        {"product": "Refined Petroleum", "value": "$370M"},
+        {"product": "Cars", "value": "$273M"},
+        {"product": "Coal Briquettes", "value": "$128M"},
+        {"product": "Packaged Medicaments", "value": "$106M"}
+      ],
+      "top_origins": [
+        {"country": "Malaysia", "value": "$1.61B"},
+        {"country": "Russia", "value": "$1.14B"},
+        {"country": "Singapore", "value": "$850M"},
+        {"country": "Saudi Arabia", "value": "$815M"},
+        {"country": "China", "value": "$649M"}
+      ]
+    }
+  },
+  {
+    "name": "Luxembourg",
+    "exports": {
+      "total": "$19.4B",
+      "rank": "76 of 226",
+      "per_capita": "$30.3K",
+      "per_capita_rank": "10 of 220",
+      "top_products": [
+        {"product": "Iron Blocks", "value": "$1.37B"},
+        {"product": "Cars", "value": "$696M"},
+        {"product": "Rubber Tires", "value": "$677M"},
+        {"product": "Gas Turbines", "value": "$475M"},
+        {"product": "Iron Sheet Piling", "value": "$469M"}
+      ],
+      "top_destinations": [
+        {"country": "Germany", "value": "$4.07B"},
+        {"country": "France", "value": "$3B"},
+        {"country": "Belgium", "value": "$2.16B"},
+        {"country": "Netherlands", "value": "$1.37B"},
+        {"country": "Italy", "value": "$833M"}
+      ]
+    },
+    "imports": {
+      "total": "$28.6B",
+      "rank": "71 of 226",
+      "per_capita": "$44.7K",
+      "per_capita_rank": "5 of 220",
+      "top_products": [
+        {"product": "Cars", "value": "$2.2B"},
+        {"product": "Refined Petroleum", "value": "$1.8B"},
+        {"product": "Computers", "value": "$1.08B"},
+        {"product": "Scrap Iron", "value": "$1B"},
+        {"product": "Electricity", "value": "$642M"}
+      ],
+      "top_origins": [
+        {"country": "Germany", "value": "$7.29B"},
+        {"country": "Belgium", "value": "$6.9B"},
+        {"country": "France", "value": "$3.14B"},
+        {"country": "China", "value": "$1.67B"},
+        {"country": "Netherlands", "value": "$1.56B"}
+      ]
+    }
+  },
+  {
+    "name": "Malta",
+    "exports": {
+      "total": "$5.04B",
+      "rank": "119 of 226",
+      "per_capita": "$9.72K",
+      "per_capita_rank": "42 of 220",
+      "top_products": [
+        {"product": "Integrated Circuits", "value": "$732M"},
+        {"product": "Refined Petroleum", "value": "$681M"},
+        {"product": "Packaged Medicaments", "value": "$620M"},
+        {"product": "Documents of title (bonds etc) and unused stamps", "value": "$306M"},
+        {"product": "Other toys", "value": "$182M"}
+      ],
+      "top_destinations": [
+        {"country": "Germany", "value": "$496M"},
+        {"country": "Italy", "value": "$362M"},
+        {"country": "Singapore", "value": "$321M"},
+        {"country": "France", "value": "$287M"},
+        {"country": "Japan", "value": "$209M"}
+      ]
+    },
+    "imports": {
+      "total": "$16.9B",
+      "rank": "86 of 226",
+      "per_capita": "$32.7K",
+      "per_capita_rank": "9 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$4.33B"},
+        {"product": "Passenger and Cargo Ships", "value": "$4.31B"},
+        {"product": "Planes, Helicopters, and/or Spacecraft", "value": "$1.38B"},
+        {"product": "Recreational Boats", "value": "$534M"},
+        {"product": "Integrated Circuits", "value": "$418M"}
+      ],
+      "top_origins": [
+        {"country": "South Korea", "value": "$3.04B"},
+        {"country": "Russia", "value": "$2.1B"},
+        {"country": "Italy", "value": "$2.02B"},
+        {"country": "China", "value": "$1.96B"},
+        {"country": "Ireland", "value": "$801M"}
+      ]
+    }
+  },
+  {
+    "name": "Singapore",
+    "exports": {
+      "total": "$351B",
+      "rank": "19 of 226",
+      "per_capita": "$64.3K",
+      "per_capita_rank": "1 of 220",
+      "top_products": [
+        {"product": "Integrated Circuits", "value": "$77B"},
+        {"product": "Refined Petroleum", "value": "$40.8B"},
+        {"product": "Gold", "value": "$18.6B"},
+        {"product": "Packaged Medicaments", "value": "$10.4B"},
+        {"product": "Machinery Having Individual Functions", "value": "$8.33B"}
+      ],
+      "top_destinations": [
+        {"country": "China", "value": "$56.8B"},
+        {"country": "Hong Kong", "value": "$54.5B"},
+        {"country": "United States", "value": "$28.1B"},
+        {"country": "Malaysia", "value": "$27.7B"},
+        {"country": "Indonesia", "value": "$18.4B"}
+      ]
+    },
+    "imports": {
+      "total": "$362B",
+      "rank": "16 of 226",
+      "per_capita": "$66.3K",
+      "per_capita_rank": "44 of 220",
+      "top_products": [
+        {"product": "Integrated Circuits", "value": "$65.2B"},
+        {"product": "Refined Petroleum", "value": "$50B"},
+        {"product": "Crude Petroleum", "value": "$22.5B"},
+        {"product": "Gold", "value": "$15.1B"},
+        {"product": "Gas Turbines", "value": "$7.43B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$53.9B"},
+        {"country": "Malaysia", "value": "$49.6B"},
+        {"country": "Chinese Taipei", "value": "$34.1B"},
+        {"country": "United States", "value": "$32.5B"},
+        {"country": "Japan", "value": "$18.2B"}
+      ]
+    }
+  },
+  {
+    "name": "Switzerland",
+    "exports": {
+      "total": "$371B",
+      "rank": "17 of 226",
+      "per_capita": "$42.6K",
+      "per_capita_rank": "2 of 220",
+      "top_products": [
+        {"product": "Gold", "value": "$86.7B"},
+        {"product": "Packaged Medicaments", "value": "$48.5B"},
+        {"product": "Vaccines, blood, antisera, toxins and cultures", "value": "$40.3B"},
+        {"product": "Base Metal Watches", "value": "$15.2B"},
+        {"product": "Nitrogen Heterocyclic Compounds", "value": "$14.6B"}
+      ],
+      "top_destinations": [
+        {"country": "Germany", "value": "$55.2B"},
+        {"country": "United States", "value": "$51.1B"},
+        {"country": "China", "value": "$33.1B"},
+        {"country": "India", "value": "$31.8B"},
+        {"country": "France", "value": "$18.9B"}
+      ]
+    },
+    "imports": {
+      "total": "$328B",
+      "rank": "20 of 226",
+      "per_capita": "$37.7K",
+      "per_capita_rank": "7 of 220",
+      "top_products": [
+        {"product": "Gold", "value": "$83.8B"},
+        {"product": "Packaged Medicaments", "value": "$28.4B"},
+        {"product": "Vaccines, blood, antisera, toxins and cultures", "value": "$11.2B"},
+        {"product": "Cars", "value": "$10.2B"},
+        {"product": "Jewellery", "value": "$8B"}
+      ],
+      "top_origins": [
+        {"country": "Germany", "value": "$70B"},
+        {"country": "Italy", "value": "$26.4B"},
+        {"country": "United Kingdom", "value": "$25.7B"},
+        {"country": "United States", "value": "$22.2B"},
+        {"country": "France", "value": "$19.4B"}
+      ]
+    }
+  },
+  {
+    "name": "Norway",
+    "exports": {
+      "total": "$164B",
+      "rank": "33 of 226",
+      "per_capita": "$30.3K",
+      "per_capita_rank": "11 of 220",
+      "top_products": [
+        {"product": "Petroleum Gas", "value": "$57.7B"},
+        {"product": "Crude Petroleum", "value": "$41.5B"},
+        {"product": "Non-fillet Fresh Fish", "value": "$8.08B"},
+        {"product": "Refined Petroleum", "value": "$6.07B"},
+        {"product": "Raw Aluminium", "value": "$3.89B"}
+      ],
+      "top_destinations": [
+        {"country": "United Kingdom", "value": "$33.5B"},
+        {"country": "Germany", "value": "$31.5B"},
+        {"country": "Sweden", "value": "$13.7B"},
+        {"country": "Netherlands", "value": "$12.2B"},
+        {"country": "China", "value": "$9.5B"}
+      ]
+    },
+    "imports": {
+      "total": "$98.2B",
+      "rank": "40 of 226",
+      "per_capita": "$18.2K",
+      "per_capita_rank": "17 of 220",
+      "top_products": [
+        {"product": "Cars", "value": "$7.87B"},
+        {"product": "Refined Petroleum", "value": "$3.11B"},
+        {"product": "Broadcasting Equipment", "value": "$1.98B"},
+        {"product": "Computers", "value": "$1.79B"},
+        {"product": "Passenger and Cargo Ships", "value": "$1.7B"}
+      ],
+      "top_origins": [
+        {"country": "Sweden", "value": "$17.4B"},
+        {"country": "Germany", "value": "$11.3B"},
+        {"country": "China", "value": "$9.87B"},
+        {"country": "Denmark", "value": "$6.36B"},
+        {"country": "United States", "value": "$5.16B"}
+      ]
+    }
+  },
+  {
+    "name": "Ireland",
+    "exports": {
+      "total": "$212B",
+      "rank": "30 of 226",
+      "per_capita": "$42.2K",
+      "per_capita_rank": "3 of 220",
+      "top_products": [
+        {"product": "Vaccines, blood, antisera, toxins and cultures", "value": "$36.5B"},
+        {"product": "Packaged Medicaments", "value": "$32.8B"},
+        {"product": "Nitrogen Heterocyclic Compounds", "value": "$22.4B"},
+        {"product": "Integrated Circuits", "value": "$15.3B"},
+        {"product": "Scented Mixtures", "value": "$9.37B"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$59.8B"},
+        {"country": "Germany", "value": "$23.3B"},
+        {"country": "United Kingdom", "value": "$19.7B"},
+        {"country": "China", "value": "$14.2B"},
+        {"country": "Belgium", "value": "$13.6B"}
+      ]
+    },
+    "imports": {
+      "total": "$116B",
+      "rank": "36 of 226",
+      "per_capita": "$23.1K",
+      "per_capita_rank": "11 of 220",
+      "top_products": [
+        {"product": "Planes, Helicopters, and/or Spacecraft", "value": "$16.5B"},
+        {"product": "Vaccines, blood, antisera, toxins and cultures", "value": "$5.03B"},
+        {"product": "Nitrogen Heterocyclic Compounds", "value": "$4.95B"},
+        {"product": "Packaged Medicaments", "value": "$4.82B"},
+        {"product": "Integrated Circuits", "value": "$3.83B"}
+      ],
+      "top_origins": [
+        {"country": "United Kingdom", "value": "$28.4B"},
+        {"country": "United States", "value": "$18.6B"},
+        {"country": "France", "value": "$12.5B"},
+        {"country": "Germany", "value": "$8.68B"},
+        {"country": "Netherlands", "value": "$6.76B"}
+      ]
+    }
+  },
+  {
+    "name": "New Zealand",
+    "exports": {
+      "total": "$68.4B",
+      "rank": "49 of 226",
+      "per_capita": "$13.4K",
+      "per_capita_rank": "32 of 220",
+      "top_products": [
+        {"product": "Concentrated Milk", "value": "$11.1B"},
+        {"product": "Sheep and Goat Meat", "value": "$4.35B"},
+        {"product": "Rough Wood", "value": "$4.31B"},
+        {"product": "Frozen Bovine Meat", "value": "$3.77B"},
+        {"product": "Butter", "value": "$3.28B"}
+      ],
+      "top_destinations": [
+        {"country": "China", "value": "$22.5B"},
+        {"country": "Australia", "value": "$8.03B"},
+        {"country": "United States", "value": "$7.18B"},
+        {"country": "Japan", "value": "$3.76B"},
+        {"country": "South Korea", "value": "$2.06B"}
+      ]
+    },
+    "imports": {
+      "total": "$46.1B",
+      "rank": "58 of 226",
+      "per_capita": "$9.03K",
+      "per_capita_rank": "65 of 220",
+      "top_products": [
+        {"product": "Cars", "value": "$3.79B"},
+        {"product": "Refined Petroleum", "value": "$1.75B"},
+        {"product": "Crude Petroleum", "value": "$1.72B"},
+        {"product": "Delivery Trucks", "value": "$1.45B"},
+        {"product": "Broadcasting Equipment", "value": "$1.15B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$10.2B"},
+        {"country": "Australia", "value": "$6.7B"},
+        {"country": "United States", "value": "$3.22B"},
+        {"country": "Japan", "value": "$2.87B"},
+        {"country": "Thailand", "value": "$2.11B"}
+      ]
+    }
+  },
+  {
+    "name": "Israel",
+    "exports": {
+      "total": "$64.1B",
+      "rank": "50 of 226",
+      "per_capita": "$6.84K",
+      "per_capita_rank": "50 of 220",
+      "top_products": [
+        {"product": "Diamonds", "value": "$9.06B"},
+        {"product": "Integrated Circuits", "value": "$5.09B"},
+        {"product": "Refined Petroleum", "value": "$2.73B"},
+        {"product": "Medical Instruments", "value": "$2.36B"},
+        {"product": "Other Measuring Instruments", "value": "$2.32B"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$17B"},
+        {"country": "China", "value": "$5.04B"},
+        {"country": "Palestine", "value": "$4.16B"},
+        {"country": "India", "value": "$2.82B"},
+        {"country": "Germany", "value": "$2.22B"}
+      ]
+    },
+    "imports": {
+      "total": "$92.1B",
+      "rank": "44 of 226",
+      "per_capita": "$9.83K",
+      "per_capita_rank": "61 of 220",
+      "top_products": [
+        {"product": "Diamonds", "value": "$6.73B"},
+        {"product": "Cars", "value": "$5.1B"},
+        {"product": "Broadcasting Equipment", "value": "$2.54B"},
+        {"product": "Integrated Circuits", "value": "$2.08B"},
+        {"product": "Refined Petroleum", "value": "$1.88B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$13.2B"},
+        {"country": "United States", "value": "$10.5B"},
+        {"country": "Turkey", "value": "$6.31B"},
+        {"country": "Germany", "value": "$6.28B"},
+        {"country": "Switzerland", "value": "$4.32B"}
+      ]
+    }
+  },
+  {
+    "name": "United Arab Emirates",
+    "exports": {
+      "total": "$296B",
+      "rank": "23 of 226",
+      "per_capita": "$31.6K",
+      "per_capita_rank": "9 of 220",
+      "top_products": [
+        {"product": "Crude Petroleum", "value": "$58.5B"},
+        {"product": "Refined Petroleum", "value": "$42.5B"},
+        {"product": "Gold", "value": "$32.8B"},
+        {"product": "Broadcasting Equipment", "value": "$16.5B"},
+        {"product": "Diamonds", "value": "$13.6B"}
+      ],
+      "top_destinations": [
+        {"country": "India", "value": "$42B"},
+        {"country": "Japan", "value": "$24.8B"},
+        {"country": "China", "value": "$22.8B"},
+        {"country": "Saudi Arabia", "value": "$22.3B"},
+        {"country": "Iraq", "value": "$14.3B"}
+      ]
+    },
+    "imports": {
+      "total": "$269B",
+      "rank": "22 of 226",
+      "per_capita": "$28.7K",
+      "per_capita_rank": "46 of 220",
+      "top_products": [
+        {"product": "Gold", "value": "$46B"},
+        {"product": "Broadcasting Equipment", "value": "$18.5B"},
+        {"product": "Refined Petroleum", "value": "$16.7B"},
+        {"product": "Diamonds", "value": "$13.6B"},
+        {"product": "Cars", "value": "$9.3B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$46.4B"},
+        {"country": "India", "value": "$25.4B"},
+        {"country": "United States", "value": "$14.9B"},
+        {"country": "Saudi Arabia", "value": "$14B"},
+        {"country": "Germany", "value": "$8.44B"}
+      ]
+    }
+  },
+  {
+    "name": "India",
+    "exports": {
+      "total": "$403B",
+      "rank": "14 of 226",
+      "per_capita": "$286",
+      "per_capita_rank": "121 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$49B"},
+        {"product": "Diamonds", "value": "$26.3B"},
+        {"product": "Packaged Medicaments", "value": "$19.2B"},
+        {"product": "Jewellery", "value": "$10.7B"},
+        {"product": "Rice", "value": "$10B"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$71.2B"},
+        {"country": "United Arab Emirates", "value": "$25.4B"},
+        {"country": "China", "value": "$23.1B"},
+        {"country": "Bangladesh", "value": "$14.1B"},
+        {"country": "Hong Kong", "value": "$11.2B"}
+      ]
+    },
+    "imports": {
+      "total": "$563B",
+      "rank": "11 of 226",
+      "per_capita": "$400",
+      "per_capita_rank": "186 of 220",
+      "top_products": [
+        {"product": "Crude Petroleum", "value": "$93.5B"},
+        {"product": "Gold", "value": "$58.4B"},
+        {"product": "Coal Briquettes", "value": "$28.4B"},
+        {"product": "Diamonds", "value": "$26B"},
+        {"product": "Petroleum Gas", "value": "$21.9B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$94.1B"},
+        {"country": "United Arab Emirates", "value": "$42B"},
+        {"country": "United States", "value": "$39.1B"},
+        {"country": "Switzerland", "value": "$31.8B"},
+        {"country": "Saudi Arabia", "value": "$25.6B"}
+      ]
+    }
+  },  
+  {
+    "name": "Russia",
+    "exports": {
+      "total": "$484B",
+      "rank": "10 of 226",
+      "per_capita": "$3.37K",
+      "per_capita_rank": "169 of 220",
+      "top_products": [
+        {"product": "Crude Petroleum", "value": "$113B"},
+        {"product": "Refined Petroleum", "value": "$81.8B"},
+        {"product": "Petroleum Gas", "value": "$37.7B"},
+        {"product": "Coal Briquettes", "value": "$19.1B"},
+        {"product": "Gold", "value": "$19.1B"}
+      ],
+      "top_destinations": [
+        {"country": "China", "value": "$70.9B"},
+        {"country": "Netherlands", "value": "$39B"},
+        {"country": "United States", "value": "$27.4B"},
+        {"country": "United Kingdom", "value": "$24.7B"},
+        {"country": "Italy", "value": "$22.2B"}
+      ]
+    },
+    "imports": {
+      "total": "$271B",
+      "rank": "21 of 226",
+      "per_capita": "$1.89K",
+      "per_capita_rank": "126 of 220",
+      "top_products": [
+        {"product": "Cars", "value": "$12.9B"},
+        {"product": "Motor vehicles; parts and accessories", "value": "$9.57B"},
+        {"product": "Packaged Medicaments", "value": "$8.67B"},
+        {"product": "Broadcasting Equipment", "value": "$8.49B"},
+        {"product": "Computers", "value": "$5.27B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$67.7B"},
+        {"country": "Germany", "value": "$31.3B"},
+        {"country": "Belarus", "value": "$15.8B"},
+        {"country": "South Korea", "value": "$10.4B"},
+        {"country": "Poland", "value": "$8.83B"}
+      ]
+    }
+  },
+  {
+    "name": "France",
+    "exports": {
+      "total": "$569B",
+      "rank": "8 of 226",
+      "per_capita": "$8.39K",
+      "per_capita_rank": "44 of 220",
+      "top_products": [
+        {"product": "Planes, Helicopters, and/or Spacecraft", "value": "$35.2B"},
+        {"product": "Packaged Medicaments", "value": "$27.2B"},
+        {"product": "Cars", "value": "$20.7B"},
+        {"product": "Motor vehicles; parts and accessories", "value": "$13.5B"},
+        {"product": "Wine", "value": "$13.2B"}
+      ],
+      "top_destinations": [
+        {"country": "Germany", "value": "$74.1B"},
+        {"country": "Italy", "value": "$46B"},
+        {"country": "Belgium", "value": "$43.8B"},
+        {"country": "United States", "value": "$42.1B"},
+        {"country": "Spain", "value": "$41.6B"}
+      ]
+    },
+    "imports": {
+      "total": "$696B",
+      "rank": "5 of 226",
+      "per_capita": "$10.3K",
+      "per_capita_rank": "30 of 220",
+      "top_products": [
+        {"product": "Cars", "value": "$40.3B"},
+        {"product": "Refined Petroleum", "value": "$23.1B"},
+        {"product": "Petroleum Gas", "value": "$22.5B"},
+        {"product": "Packaged Medicaments", "value": "$19.6B"},
+        {"product": "Crude Petroleum", "value": "$16.1B"}
+      ],
+      "top_origins": [
+        {"country": "Germany", "value": "$119B"},
+        {"country": "Italy", "value": "$61.6B"},
+        {"country": "Belgium", "value": "$59.9B"},
+        {"country": "Spain", "value": "$59B"},
+        {"country": "Netherlands", "value": "$57.1B"}
+      ]
+    }
+  },
+  {
+    "name": "United States",
+    "exports": {
+      "total": "$1.63T",
+      "rank": "2 of 226",
+      "per_capita": "$4.9K",
+      "per_capita_rank": "58 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$83.3B"},
+        {"product": "Petroleum Gas", "value": "$70.9B"},
+        {"product": "Crude Petroleum", "value": "$67.6B"},
+        {"product": "Cars", "value": "$55.4B"},
+        {"product": "Integrated Circuits", "value": "$51.3B"}
+      ],
+      "top_destinations": [
+        {"country": "Canada", "value": "$259B"},
+        {"country": "Mexico", "value": "$247B"},
+        {"country": "China", "value": "$151B"},
+        {"country": "Japan", "value": "$71.8B"},
+        {"country": "South Korea", "value": "$66.4B"}
+      ]
+    },
+    "imports": {
+      "total": "$2.73T",
+      "rank": "1 of 226",
+      "per_capita": "$8.22K",
+      "per_capita_rank": "69 of 220",
+      "top_products": [
+        {"product": "Cars", "value": "$139B"},
+        {"product": "Crude Petroleum", "value": "$120B"},
+        {"product": "Computers", "value": "$102B"},
+        {"product": "Broadcasting Equipment", "value": "$101B"},
+        {"product": "Packaged Medicaments", "value": "$86.3B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$530B"},
+        {"country": "Mexico", "value": "$361B"},
+        {"country": "Canada", "value": "$355B"},
+        {"country": "Germany", "value": "$135B"},
+        {"country": "Japan", "value": "$128B"}
+      ]
+    }
+  },
+  {
+    "name": "Japan",
+    "exports": {
+      "total": "$731B",
+      "rank": "4 of 226",
+      "per_capita": "$5.82K",
+      "per_capita_rank": "56 of 220",
+      "top_products": [
+        {"product": "Cars", "value": "$88.6B"},
+        {"product": "Integrated Circuits", "value": "$36B"},
+        {"product": "Motor vehicles; parts and accessories", "value": "$33.4B"},
+        {"product": "Machinery Having Individual Functions", "value": "$22B"},
+        {"product": "Photo Lab Equipment", "value": "$18.5B"}
+      ],
+      "top_destinations": [
+        {"country": "China", "value": "$153B"},
+        {"country": "United States", "value": "$128B"},
+        {"country": "Chinese Taipei", "value": "$52.5B"},
+        {"country": "South Korea", "value": "$51.1B"},
+        {"country": "Thailand", "value": "$31.2B"}
+      ]
+    },
+    "imports": {
+      "total": "$700B",
+      "rank": "4 of 226",
+      "per_capita": "$5.57K",
+      "per_capita_rank": "84 of 220",
+      "top_products": [
+        {"product": "Crude Petroleum", "value": "$54.9B"},
+        {"product": "Petroleum Gas", "value": "$40.2B"},
+        {"product": "Integrated Circuits", "value": "$22.7B"},
+        {"product": "Coal Briquettes", "value": "$22.2B"},
+        {"product": "Refined Petroleum", "value": "$18.1B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$168B"},
+        {"country": "United States", "value": "$71.8B"},
+        {"country": "Australia", "value": "$47B"},
+        {"country": "Chinese Taipei", "value": "$30.2B"},
+        {"country": "South Korea", "value": "$30.1B"}
+      ]
+    }
+  },
+  {
+    "name": "Germany",
+    "exports": {
+      "total": "$1.56T",
+      "rank": "3 of 226",
+      "per_capita": "$18.8K",
+      "per_capita_rank": "21 of 220",
+      "top_products": [
+        {"product": "Cars", "value": "$135B"},
+        {"product": "Packaged Medicaments", "value": "$64.6B"},
+        {"product": "Motor vehicles; parts and accessories", "value": "$64.5B"},
+        {"product": "Vaccines, blood, antisera, toxins and cultures", "value": "$45.6B"},
+        {"product": "Planes, Helicopters, and/or Spacecraft", "value": "$21.2B"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$135B"},
+        {"country": "China", "value": "$121B"},
+        {"country": "France", "value": "$119B"},
+        {"country": "Netherlands", "value": "$100B"},
+        {"country": "Italy", "value": "$88.7B"}
+      ]
+    },
+    "imports": {
+      "total": "$1.34T",
+      "rank": "3 of 226",
+      "per_capita": "$16.1K",
+      "per_capita_rank": "20 of 220",
+      "top_products": [
+        {"product": "Cars", "value": "$71.1B"},
+        {"product": "Vaccines, blood, antisera, toxins and cultures", "value": "$41.6B"},
+        {"product": "Motor vehicles; parts and accessories", "value": "$41.1B"},
+        {"product": "Packaged Medicaments", "value": "$32.3B"},
+        {"product": "Crude Petroleum", "value": "$29.2B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$134B"},
+        {"country": "Netherlands", "value": "$129B"},
+        {"country": "Poland", "value": "$89.4B"},
+        {"country": "Italy", "value": "$78.4B"},
+        {"country": "France", "value": "$74.1B"}
+      ]
+    }
+  },
+  {
+    "name": "United Kingdom",
+    "exports": {
+      "total": "$420B",
+      "rank": "13 of 226",
+      "per_capita": "$6.27K",
+      "per_capita_rank": "53 of 220",
+      "top_products": [
+        {"product": "Cars", "value": "$30.2B"},
+        {"product": "Gold", "value": "$29.7B"},
+        {"product": "Gas Turbines", "value": "$21.9B"},
+        {"product": "Crude Petroleum", "value": "$19.6B"},
+        {"product": "Packaged Medicaments", "value": "$17.9B"}
+      ],
+      "top_destinations": [
+        {"country": "United States", "value": "$56.1B"},
+        {"country": "Germany", "value": "$39.5B"},
+        {"country": "Netherlands", "value": "$34.6B"},
+        {"country": "Ireland", "value": "$28.4B"},
+        {"country": "Switzerland", "value": "$25.7B"}
+      ]
+    },
+    "imports": {
+      "total": "$681B",
+      "rank": "7 of 226",
+      "per_capita": "$10.2K",
+      "per_capita_rank": "31 of 220",
+      "top_products": [
+        {"product": "Gold", "value": "$53.9B"},
+        {"product": "Cars", "value": "$33.6B"},
+        {"product": "Petroleum Gas", "value": "$26.8B"},
+        {"product": "Crude Petroleum", "value": "$23.4B"},
+        {"product": "Packaged Medicaments", "value": "$15.2B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$86.2B"},
+        {"country": "Germany", "value": "$76.3B"},
+        {"country": "United States", "value": "$55.5B"},
+        {"country": "Netherlands", "value": "$43.1B"},
+        {"country": "Norway", "value": "$33.5B"}
+      ]
+    }
+  },
+  {
+    "name": "Australia",
+    "exports": {
+      "total": "$343B",
+      "rank": "20 of 226",
+      "per_capita": "$13.4K",
+      "per_capita_rank": "33 of 220",
+      "top_products": [
+        {"product": "Iron Ore", "value": "$118B"},
+        {"product": "Coal Briquettes", "value": "$54.3B"},
+        {"product": "Petroleum Gas", "value": "$39.2B"},
+        {"product": "Gold", "value": "$17.6B"},
+        {"product": "Wheat", "value": "$7.36B"}
+      ],
+      "top_destinations": [
+        {"country": "China", "value": "$138B"},
+        {"country": "Japan", "value": "$47B"},
+        {"country": "South Korea", "value": "$29.4B"},
+        {"country": "India", "value": "$20.5B"},
+        {"country": "Chinese Taipei", "value": "$13.2B"}
+      ]
+    },
+    "imports": {
+      "total": "$251B",
+      "rank": "24 of 226",
+      "per_capita": "$9.76K",
+      "per_capita_rank": "62 of 220",
+      "top_products": [
+        {"product": "Refined Petroleum", "value": "$19.6B"},
+        {"product": "Cars", "value": "$18.8B"},
+        {"product": "Delivery Trucks", "value": "$8.08B"},
+        {"product": "Broadcasting Equipment", "value": "$6.68B"},
+        {"product": "Computers", "value": "$6.61B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$70B"},
+        {"country": "United States", "value": "$25.7B"},
+        {"country": "Japan", "value": "$15.3B"},
+        {"country": "Thailand", "value": "$12.1B"},
+        {"country": "Germany", "value": "$11.6B"}
+      ]
+    }
+  },
+  {
+    "name": "South Korea",
+    "exports": {
+      "total": "$653B",
+      "rank": "5 of 226",
+      "per_capita": "$12.6K",
+      "per_capita_rank": "35 of 220",
+      "top_products": [
+        {"product": "Integrated Circuits", "value": "$116B"},
+        {"product": "Cars", "value": "$44.7B"},
+        {"product": "Refined Petroleum", "value": "$36.4B"},
+        {"product": "Motor vehicles; parts and accessories", "value": "$19.3B"},
+        {"product": "Office Machine Parts", "value": "$18B"}
+      ],
+      "top_destinations": [
+        {"country": "China", "value": "$158B"},
+        {"country": "United States", "value": "$95.9B"},
+        {"country": "Vietnam", "value": "$56.5B"},
+        {"country": "Hong Kong", "value": "$38.2B"},
+        {"country": "Japan", "value": "$30.1B"}
+      ]
+    },
+    "imports": {
+      "total": "$578B",
+      "rank": "9 of 226",
+      "per_capita": "$11.2K",
+      "per_capita_rank": "59 of 220",
+      "top_products": [
+        {"product": "Crude Petroleum", "value": "$60.6B"},
+        {"product": "Integrated Circuits", "value": "$47.4B"},
+        {"product": "Petroleum Gas", "value": "$24.5B"},
+        {"product": "Refined Petroleum", "value": "$24.3B"},
+        {"product": "Photo Lab Equipment", "value": "$16.6B"}
+      ],
+      "top_origins": [
+        {"country": "China", "value": "$140B"},
+        {"country": "United States", "value": "$66.4B"},
+        {"country": "Japan", "value": "$51.1B"},
+        {"country": "Australia", "value": "$29.4B"},
+        {"country": "Vietnam", "value": "$22.6B"}
+      ]
+    }
+  }
+]
