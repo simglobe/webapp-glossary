@@ -1,0 +1,1 @@
+The rate at which consumption is taxed

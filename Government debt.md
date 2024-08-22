@@ -1,0 +1,1 @@
+The amount the government owes to spend on their economy.

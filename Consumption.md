@@ -1,0 +1,1 @@
+The total spending of all households in the economy. In theory, this represents total income minus household savings. 

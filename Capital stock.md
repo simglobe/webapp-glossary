@@ -1,0 +1,1 @@
+Conventionally understood as durable goods used as inputs for further production, such as machinery and equipment. 

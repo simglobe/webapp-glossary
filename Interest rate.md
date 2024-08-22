@@ -1,0 +1,1 @@
+The interest rate targeted by the central bank (the players)

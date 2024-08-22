@@ -1,0 +1,1 @@
+The measure of price level for consumers. 

@@ -1,0 +1,1 @@
+The aggregate demand, or total income of the economy.

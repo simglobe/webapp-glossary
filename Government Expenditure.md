@@ -1,0 +1,1 @@
+The total spending of the government (the players) on its economy. 

@@ -1,0 +1,1 @@
+The total value of all goods and services in an economy

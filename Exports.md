@@ -1,0 +1,1 @@
+The total value of goods a country sells to others. 

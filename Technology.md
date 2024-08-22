@@ -1,0 +1,1 @@
+Measure of the efficiency of methods of production, including internal process or procedure, skills, experience, know-hows, etc. In practice they are measured indirectly as total output over some function of labor and capital in accordance with the Cobb-Douglas form. 

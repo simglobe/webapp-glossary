@@ -1,0 +1,1 @@
+Manpower used in the production of goods and services

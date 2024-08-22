@@ -1,0 +1,1 @@
+The total amount of spending by business in themselves to expand production/lower costs. Business profits can be used for investment and dividends, and the rest is considered reserves. 

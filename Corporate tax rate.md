@@ -1,0 +1,1 @@
+The rate at which business investment is taxed

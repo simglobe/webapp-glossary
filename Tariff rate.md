@@ -1,0 +1,1 @@
+The rate at which imports into a country is taxed
